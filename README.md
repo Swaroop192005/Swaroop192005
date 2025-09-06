@@ -7,7 +7,7 @@ I'm a Computer Engineering undergrad at **Vidyalankar Institute of Technology**,
 ## 🚀 What I’m Good At
 
 - 🧠 **Problem Solving** – Critical thinker with an innovative mindset
-- 💻 **Programming** – Python, C, Java
+- 💻 **Programming** – Python, C, Java,pandas,numpy,React,langchain
 - 🔧 **Software Development** – Backend logic, user interactivity, prototyping
 - 🤝 **Teamwork & Leadership** – Experienced in leading multi-disciplinary teams
 - 💬 **People Skills** – Approachable, empathetic, and good at building connections
