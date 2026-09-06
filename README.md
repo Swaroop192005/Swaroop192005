@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Swaroop Naik
 
-I'm a Computer Engineering undergrad at **Vidyalankar Institute of Technology**, driven by a passion for tech-enabled solutions that create real-world impact. I love blending creativity, logic, and collaboration to build meaningful projects.
+I'm a Computer Engineering final year undergrad at **Vidyalankar Institute of Technology**, driven by a passion for tech-enabled solutions that create real-world impact. I love blending creativity, logic, and collaboration to build meaningful projects.
 
 ---
 
